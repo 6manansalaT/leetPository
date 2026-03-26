@@ -16,7 +16,6 @@ class Solution(object):
         for i in range(len(nums)):
             res_arr[i] = pref
             pref *= nums[i]
-        print(res_arr)
         for j in range(len(nums) - 1, -1, -1):
             res_arr[j] *= post
             post *= nums[j]
