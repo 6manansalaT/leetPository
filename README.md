@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/6manansalaT/leetPository/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/6manansalaT/leetPository/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/6manansalaT/leetPository/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -36,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/6manansalaT/leetPository/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/6manansalaT/leetPository/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/6manansalaT/leetPository/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/6manansalaT/leetPository/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
