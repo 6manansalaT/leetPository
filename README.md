@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/6manansalaT/leetPository/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/6manansalaT/leetPository/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/6manansalaT/leetPository/tree/master/0238-product-of-array-except-self) |
+| [1929-concatenation-of-array](https://github.com/6manansalaT/leetPository/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/6manansalaT/leetPository/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/6manansalaT/leetPository/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
