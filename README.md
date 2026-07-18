@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/6manansalaT/leetPository/tree/master/1441-build-an-array-with-stack-operations) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/6manansalaT/leetPository/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
